@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![About Me](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ishita03-Singh)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ishita03-Singh&repo=Covi-Eye)
