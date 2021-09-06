@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ishita03-Singh)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ishita03-Singh&repo=Covi-Eye)
