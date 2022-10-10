@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishita Singh</h1>
-<h3 align="center">An Android development enthusiast with problem solving skills</h3>
+<h3 align="center">A Mobile Developer with problem solving skills</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ishita03-Singh" alt="Ishita Singh" /></a> </p>
