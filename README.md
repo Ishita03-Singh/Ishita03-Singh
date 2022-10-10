@@ -22,7 +22,7 @@
  
   <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/197982/html.svg" alt="html" width="40" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/303263/css3-logo.svg" alt="css" width="40" height="40"/> </a>
-           <a href="" target="_blank"> <img src="" alt="flutterhttps://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" width="40" height="40"/> </a>
+           <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter" width="40" height="40"/> </a>
          </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishita03-Singh&show_icons=true&locale=en&layout=compact" alt="Ishita Singh" /></p>
