@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ishita-singh-creater/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Ishita Singh" height="24" width="24" /></a>
+<a href="https://www.linkedin.com/in/ishita-singh-creater/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmJ3GQvWxZ2iRbaHJ7a5-WrnnywrVf7sWMbcFx5eTvQ&s" alt="Ishita Singh" height="24" width="24" /></a>
 <a href="https://auth.geeksforgeeks.org/user/15ishita03/profile" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="Ishita Singh" height="24" width="24" /></a>
 </p>
 
