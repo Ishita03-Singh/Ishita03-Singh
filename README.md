@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Flutter Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ishita03-Singh](https://github.com/ChaitanyaMunje)
 
 - 📫 How to reach me **ishitasingh150301@gmail.com**
 
